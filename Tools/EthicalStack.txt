@@ -1,0 +1,3 @@
+The ethical stack code repository is available at: https://github.com/indsigtdesign/ethical-stack
+
+You can see the tool itself at https://ethicalstack.virteuproject.eu/
